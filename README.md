@@ -2,7 +2,8 @@
 
 A Flutter application.
 
-![first page](https://user-images.githubusercontent.com/71315238/98944740-845b8d00-2517-11eb-9222-abd7fad6b765.jpg)
+![first page](https://user-images.githubusercontent.com/71315238/98944740-845b8d00-2517-11eb-9222-abd7fad6b765.jpg)    ![scan ingredients page](https://user-images.githubusercontent.com/71315238/98946160-89214080-2519-11eb-9855-30505b6f8220.jpg)
+
 
 ## Getting Started
 
