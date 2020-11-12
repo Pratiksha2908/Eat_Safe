@@ -1,3 +1,4 @@
+import 'package:eat_safe_now/scan_ingredients.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -42,7 +43,16 @@ class HomePage extends StatelessWidget {
                   shape: RoundedRectangleBorder(
                     borderRadius: BorderRadius.circular(25),
                   ),
-                  onPressed: (){},
+                  onPressed: (){
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context){
+                          return ScanIngredients();
+                        },
+                      ),
+                    );
+                  },
                   child: Image.asset('images/pregnant.png'),
                 ),
               ),
