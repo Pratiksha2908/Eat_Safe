@@ -2,9 +2,7 @@
 
 A Flutter application.
 
-<img src="https://user-images.githubusercontent.com/71315238/102816923-d20bc500-43f4-11eb-81e5-487641c8499f.gif" width="200" height="400" /> 
-
-
+<img src="https://user-images.githubusercontent.com/71315238/102817274-7e4dab80-43f5-11eb-907c-5dc2b5730eed.mp4" width="200" height="400" /> 
 
 ## Getting Started
 
