@@ -6,6 +6,8 @@ A Flutter application.
 
 ![eatsafe](https://user-images.githubusercontent.com/71315238/102816923-d20bc500-43f4-11eb-81e5-487641c8499f.gif)
 
+<img src="https://user-images.githubusercontent.com/71315238/102816923-d20bc500-43f4-11eb-81e5-487641c8499f.gif" width="200" height="400" /> 
+
 
 
 ## Getting Started
